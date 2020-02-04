@@ -1,4 +1,4 @@
-# Umbraco Friendly Robots
+# Umbraco Sidecar
 
 [![NuGet release](https://img.shields.io/nuget/v/Our.Umbraco.Sidecar.svg)](https://www.nuget.org/packages/Our.Umbraco.Sidecar/)
 
