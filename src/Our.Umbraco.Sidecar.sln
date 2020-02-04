@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Our.Umbraco.Sidecar", "Our.Umbraco.Sidecar\Our.Umbraco.Sidecar.csproj", "{DB137F23-C9B1-48B2-B6EE-114E4F878EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB137F23-C9B1-48B2-B6EE-114E4F878EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB137F23-C9B1-48B2-B6EE-114E4F878EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB137F23-C9B1-48B2-B6EE-114E4F878EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB137F23-C9B1-48B2-B6EE-114E4F878EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA8D7E1-C86E-4364-9AC1-CF5CB509F445}
+	EndGlobalSection
+EndGlobal
