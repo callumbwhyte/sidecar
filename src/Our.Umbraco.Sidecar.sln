@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Our.Umbraco.Sidecar", "Our.Umbraco.Sidecar\Our.Umbraco.Sidecar.csproj", "{DB137F23-C9B1-48B2-B6EE-114E4F878EA6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{55F084CE-A3EA-4AFA-B66A-90F7324C7870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sidecar.ConsoleApp", "Sidecar.ConsoleApp\Sidecar.ConsoleApp.csproj", "{D43439FF-02BD-4FA6-96A1-6B66240674B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{DB137F23-C9B1-48B2-B6EE-114E4F878EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB137F23-C9B1-48B2-B6EE-114E4F878EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB137F23-C9B1-48B2-B6EE-114E4F878EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43439FF-02BD-4FA6-96A1-6B66240674B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43439FF-02BD-4FA6-96A1-6B66240674B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43439FF-02BD-4FA6-96A1-6B66240674B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43439FF-02BD-4FA6-96A1-6B66240674B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D43439FF-02BD-4FA6-96A1-6B66240674B4} = {55F084CE-A3EA-4AFA-B66A-90F7324C7870}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8BA8D7E1-C86E-4364-9AC1-CF5CB509F445}
