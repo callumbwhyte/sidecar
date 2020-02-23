@@ -1,8 +1,6 @@
 ﻿using System;
 using Our.Umbraco.Sidecar;
-using Umbraco.Core;
 using Umbraco.Core.Composing;
-using Umbraco.Core.Services;
 
 namespace Sidecar.ConsoleApp
 {
